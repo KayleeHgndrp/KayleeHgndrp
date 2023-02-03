@@ -7,7 +7,7 @@
 &nbsp;
 <div align="center">
    <h1>Hi! I'm Kaylee Hoogendorp 👋</h1>
-  <p align="center" width=10>Front-end developer, Software Engineer</p>
+  <p align="center">Front-end developer, Software Engineer</p>
   <a href="www.kayleehoogendorp.com" target="_blank">Portofolio</a> | 
   <a href="https://www.linkedin.com/in/kaylee-hoogendorp/" target="_blank">Linkedin</a>
 </div>

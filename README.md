@@ -16,7 +16,7 @@
 
 💫 I'm currently working with my hands to make magic happen on the web.
 
-📫 You can reach me at [kphoogendorp@gmail.com](mailto:kphoogendorp@gmail.com?subject=Let's work together!)
+📫 You can reach me at: <a href="mailto:kphoogendorp@gmail.com?subject=Let's work together!" target="_blank">kphoogendorp@gmail.com</a> 
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning anything and everything around JavaScript and (3D) animation.

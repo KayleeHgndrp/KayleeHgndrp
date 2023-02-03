@@ -1,16 +1,13 @@
 
 
-<h1 align="center">
-  <a href='www.kayleehoogendorp.com' target='_blank'>Hi! I'm Kaylee Hoogendorp 👋<a/>
-</h1>
-
-
-<p align="center" width=10>
-  Front-end developer, Software Engineer
-</p>
-
-
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/16650847/216664912-0573e626-4c4a-4f91-82a1-58945171ccd7.png" width="200"/>
+</div>
+&nbsp;
+&nbsp;
 <div align="center">
+   <h1>Hi! I'm Kaylee Hoogendorp 👋</h1>
+  <p align="center" width=10>Front-end developer, Software Engineer</p>
   <a href="www.kayleehoogendorp.com" target="_blank">Portofolio</a> | 
   <a href="https://www.linkedin.com/in/kaylee-hoogendorp/" target="_blank">Linkedin</a>
 </div>

@@ -19,7 +19,7 @@
 📫 You can reach me at: <a href="mailto:kphoogendorp@gmail.com?subject=Let's work together!" target="_blank">kphoogendorp@gmail.com</a> 
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning anything and everything around JavaScript and (3D) animation.
+- 🌱 I’m currently learning anything and everything around JavaScript.
 - 💬 Ask me about JavaScript, CSS, React, and anything about music 🎺 
 - 👯 I’m always open for new thoughts, ideas, problems, projects or collaborations.
 - ⚡ Fun fact: I am a a triplet with two brothers. 👧 🧒 👦
